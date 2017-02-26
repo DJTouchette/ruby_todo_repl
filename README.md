@@ -5,6 +5,9 @@ with Ruby's syntax.
 
 # Setup
 `$ git clone https://github.com/DJTouchette/ruby_todo_repl`
-'$ cd ruby_todo_repl'
-'$ bundle'
-'$ ruby index.rb'
+
+`$ cd ruby_todo_repl`
+
+`$ bundle`
+
+`$ ruby index.rb`
